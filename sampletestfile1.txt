@@ -1,2 +1,2 @@
-Git commit revert 2
 this is sample file 1
+this is comparsion lecture
